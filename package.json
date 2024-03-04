@@ -1,0 +1,24 @@
+{
+  "name": "bwp-alay-letter",
+  "version": "1.0.0",
+  "description": "Npm Package for convert normal string to alay letter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "hallow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baguzwahyu/bwp-alay-letter.git"
+  },
+  "keywords": [
+    "bwp",
+    "alay",
+    "letter"
+  ],
+  "author": "baguzwahyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baguzwahyu/bwp-alay-letter/issues"
+  },
+  "homepage": "https://github.com/baguzwahyu/bwp-alay-letter#readme"
+}
